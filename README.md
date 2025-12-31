@@ -96,7 +96,7 @@ Generate segment-specific cross-sell recommendations
 
 ## Key Recommendations
 
-1.Prioritize Frequent Buyers with loyalty programs and personalized offers, as they generate the highest value.
+1.Prioritize Frequent Buyers with  personalized offers as they generate the highest value.
 
 2.Use discounts, bundles, and reminders to convert Occasional Buyers into Regular Buyers.
 
