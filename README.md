@@ -1,4 +1,4 @@
-## Project Overview
+# Project Overview
 
 This project focuses on analyzing grocery purchase behavior using Customer Segmentation and Market Basket Analysis techniques.
 The objective is to identify different types of customers, understand their buying patterns, and generate product cross-sell recommendations.
@@ -15,7 +15,7 @@ Scikit-learn
 
 
 
-## Project Workflow
+# Project Workflow
 
 # 1. Data Loading and Preprocessing
 
@@ -81,7 +81,7 @@ Generate global cross-sell recommendations
 
 Generate segment-specific cross-sell recommendations
 
-## Dashboard(Power BI)
+# Dashboard(Power BI)
 
 <img width="1292" height="723" alt="Screenshot 2025-12-31 141201" src="https://github.com/user-attachments/assets/f8989855-8a50-495b-890d-7a5d5c0aa459" />
 
@@ -94,7 +94,7 @@ Generate segment-specific cross-sell recommendations
 
 <img width="1304" height="725" alt="Screenshot 2025-12-31 141149" src="https://github.com/user-attachments/assets/d5120c49-6f30-4fc5-9f63-fc64a5d8761d" />
 
-## Key Recommendations
+# Key Recommendations
 
 1.Prioritize Frequent Buyers with loyalty programs and personalized offers, as they generate the highest value.
 
